@@ -1,9 +1,9 @@
 {
   "settingsInheritedFrom": "GarySegal-Mend-DemoCorp/whitesource-config@main",
   "scanSettings": {
-		"enableIaC": true
-	},
+	   "enableIaC": true
+  },
   "checkRunSettings": {
-		"iacCheckRunConclusionLevel": "failure"
+	"iacCheckRunConclusionLevel": "failure"
 	}
 }

@@ -3,7 +3,10 @@
   "scanSettings": {
 	   "enableIaC": true
   },
+  "scanSettingsSAST": {
+		"enableScan": false
+	},
   "checkRunSettings": {
-	"iacCheckRunConclusionLevel": "failure"
+	  "iacCheckRunConclusionLevel": "failure"
 	}
 }
